@@ -1,0 +1,9 @@
+{
+	"name": "deathmlDF",
+	"location": "swedencentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8b5ad92d-4588-457b-a9d5-6acd63dac9d0",
+		"tenantId": "cad1d912-7e4b-4f0c-9036-d4207020dc62"
+	}
+}
